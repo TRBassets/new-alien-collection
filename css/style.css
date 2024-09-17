@@ -299,3 +299,8 @@ h2.bb{
 img{
     margin-top: 12px;
 }
+/* Add this to your CSS */
+.no-margin-top {
+    margin-top: 0;
+}
+
